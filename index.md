@@ -2,20 +2,20 @@
 <style>
 
 .accordion {
-  max-width: 500px;
-  border: 1px solid #000;
+  max-width: 650px;
+  border: 3px solid #FFCC00;
   border-bottom: none;
 }
 
 .accordion:last-child {
-  border-bottom: 1px solid #000;
+  border-bottom: 3px solid #FFCC00;
 }
 
 .accordion-header {
   display: flex;
   padding: 16px;
   cursor: pointer;
-  background-color: #F2F2F2;
+  background-color: #000;
 }
 
 .accordion-title {

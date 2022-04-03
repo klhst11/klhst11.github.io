@@ -43,7 +43,7 @@
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">NPC: <strong>September 2019 - Current</strong></div>
+      <div class="accordion-title"><strong>NPC:</strong> September 2019 - Current</div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
@@ -53,7 +53,7 @@
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Holiday Retirement: <strong>September 2018 - May 2019</strong></div>
+      <div class="accordion-title"><strong>Holiday Retirement:</strong> September 2018 - May 2019</div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
@@ -80,44 +80,33 @@
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Second Volunteer Opportunity</div>
+      <div class="accordion-title"><strong>Phone Number</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        814-932-3909
     </div>
 </div>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Third Volunteer Opportunity</div>
+      <div class="accordion-title"><strong>Instagram</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        kaden__helsel
     </div>
 </div>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Fourth Volunteer Opportunity</div>
+      <div class="accordion-title"><strong>Facebook</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Kaden Helsel
     </div>
 </div>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title">Fifth Volunteer Opportunity</div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </div>
-</div>
-
 
 </section>
 

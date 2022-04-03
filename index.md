@@ -64,21 +64,17 @@
 </section>
 
 
-<section id="education">
+<section id="contact">
 
-<h2>Education</h2>
+<h2>How To Contact Me</h2>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Bachelor's Degree - <strong>2014</strong></div>
+      <div class="accordion-title"><strong>Email</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        <ul>
-          <li>First task I completed</li>
-
-        </ul>
+        kadenhelsel@gmail.com
     </div>
 </div>
 

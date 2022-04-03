@@ -53,7 +53,7 @@
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title"><strong>Holiday Retirement:</strong> September 2018 - May 2019</div>
+      <div class="accordion-title"><strong>Holiday Retirement:</strong> September 2018 - May 2018</div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">

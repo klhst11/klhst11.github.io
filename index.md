@@ -15,7 +15,7 @@
   display: flex;
   padding: 16px;
   cursor: pointer;
-  background-color: #000;
+  background-color: #000000;
 }
 
 .accordion-title {
@@ -37,21 +37,17 @@
 </style>
 
 
-<section id="volunteer-work">
+<section id="work-experience">
 
-<h2>Volunteer Work</h2>
+<h2>Work Experience</h2>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">First Volunteer Opportunity - <strong>2014</strong></div>
+      <div class="accordion-title">NPC - <strong>2019 - Current</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        <ul>
-          <li>First task I completed</li>
-
-        </ul>
+        For my current job, I am a Digital Print Operator. We use big commercial size printers to print anything from documents to booklets. Their is a lot of thought process when it comes to this job since you need to know what paper to use, where to pull the files from, and how to complete the job correctly for shipping or to somewhere else in the plant.
     </div>
 </div>
 

@@ -1,6 +1,6 @@
 <nav>
         <ul>
-            <li><a href="projects.md">Projects</a></li>
+            <li><a href="stopwatch.md">Stopwatch</a></li>
             <li><a href="gallery.md">Gallery</a></li>
             <li><a href="contact.md">Contact Me</a></li>
         </ul>

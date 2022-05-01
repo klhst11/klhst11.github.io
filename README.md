@@ -1,13 +1,12 @@
-<nav>
-        <ul>
-            <li><a href="about.md">About Me</a></li>
-            <li><a href="projects.md">My Projects</a></li>
-            <li><a href="gallery.md">Gallery</a></li>
-            <li><a href="contact.md">Contact</a></li>
-        </ul>
-    </nav>
+<div class="navbar">
+  <a class="active" href="#">Home</a>
+  <a href="#">About Me</a>
+  <a href="#">Gallery</a>
+  <a href="#">Contact</a>
+</div>
 
 
 <h1>
         Who Am I?
 </h1>
+Hello, my name is Kaden Helsel, and welcome to my website! I currently am a Freshman at Mount Aloysius studying IT. 

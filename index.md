@@ -1,8 +1,8 @@
 <nav>
         <ul>
-            <li><a href="tempconverter.md">Temperature Converter</a></li>
-            <li><a href="gallery.md">Gallery</a></li>
-            <li><a href="contact.md">Contact Me</a></li>
+            <li><a href="tempconverter.html">Temperature Converter</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact Me</a></li>
         </ul>
 </nav>
 

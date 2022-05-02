@@ -1,5 +1,6 @@
 <nav>
         <ul>
+            <li><a href="fastfoodrestuarants.html">Favorite Fast Food Restuarants</a></li>
             <li><a href="tempconverter.html">Temperature Converter</a></li>
             <li><a href="gallery.html">Gallery</a></li>
             <li><a href="contact.html">Contact Me</a></li>

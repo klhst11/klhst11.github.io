@@ -26,9 +26,9 @@ My Favortite Fast Food Restuarants:
 
 <select id="FastFood" onchange="fastFoodSelector(this)">
   <option value="Chick-Fil-A">Chick-Fil-A</option>
-  <option value="Taco Bell">Taco Bell</option>
+  <option value="TacoBell">Taco Bell</option>
   <option value="Wendy's">Wendy's</option>
-  <option value="Burger King">Burger King</option>
+  <option value="BurgerKing">Burger King</option>
 
 </select>
 
@@ -42,7 +42,7 @@ My Favortite Fast Food Restuarants:
 <img src="https://www.freepnglogos.com/uploads/chick-fil-a-png-logo/chick-fil-a-zanda-png-logo-1.png" alt="Chick-Fil-A Logo" width="400" height="300">
 </div>
 
-<div id="Taco Bell" class="FastFood" style="display:none">
+<div id="TacoBell" class="FastFood" style="display:none">
 <h1>Taco Bell
 </h1>
 <h3>I love Taco Bell because of their $5, $6, or $7 boxes. Every 1 or 2 months, their variety changes with these boxes, with different kinds of foods. It usually is tacos, but everytime a new one comes out, they offer different kinds of tacos in it. Currently they have a nacho fry box, which is good. I remember other times they had a dorito taco box, as well as a grilled cheese type of taco box. It also includes a drink.
@@ -58,7 +58,7 @@ My Favortite Fast Food Restuarants:
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Wendy%27s_full_logo_2012.svg/640px-Wendy%27s_full_logo_2012.svg.png" alt="Wendy's Logo" width="300" height="250">
 </div>
 
-<div id="Burger King" class="FastFood" style="display:none">
+<div id="BurgerKing" class="FastFood" style="display:none">
 <h1>Burger King
 </h1>
 <h3>I love Burger king because of their burgers and onion rings. Their onion rings have always been my favorite, but their burgers I feel have gotten a lot better as well. I really like their whoppers and a bbq burger they have. They also have a ranch burger which includes 2 onion rings, bbq sauce, cheese, and a burger, which is perfect for everything that I like.
@@ -81,27 +81,27 @@ function fastFoodSelector(selectElem) {
   if (optionValue === "Chick-Fil-A") {
     document.body.style.backgroundColor = "#FF999E"
     document.getElementById("Chick-Fil-A").style.display = "Block"
-    document.getElementById("Taco Bell").style.display = "None"
+    document.getElementById("TacoBell").style.display = "None"
     document.getElementById("Wendy's").style.display = "None"
-    document.getElementById("Burger King").style.display = "None"
-  } else if (optionValue === "Taco Bell") {
+    document.getElementById("BurgerKing").style.display = "None"
+  } else if (optionValue === "TacoBell") {
     document.body.style.backgroundColor = "#4FC3F7"
     document.getElementById("Chick-Fil-A").style.display = "None"
-    document.getElementById("Taco Bell").style.display = "Block"
+    document.getElementById("TacoBell").style.display = "Block"
     document.getElementById("Wendy's").style.display = "None"
-    document.getElementById("Burger King").style.display = "None"
+    document.getElementById("BurgerKing").style.display = "None"
   } else if (optionValue === "Wendy's") {
     document.body.style.backgroundColor = "#971919"
     document.getElementById("Chick-Fil-A").style.display = "None"
-    document.getElementById("Taco Bell").style.display = "None"
+    document.getElementById("TacoBell").style.display = "None"
     document.getElementById("Wendy's").style.display = "Block"
-    document.getElementById("Burger King").style.display = "None"
-  } else if (optionValue === "Burger King") {
+    document.getElementById("BurgerKing").style.display = "None"
+  } else if (optionValue === "BurgerKing") {
     document.body.style.backgroundColor = "#FFF59E"
     document.getElementById("Chick-Fil-A").style.display = "None"
-    document.getElementById("Taco Bell").style.display = "None"
+    document.getElementById("TacoBell").style.display = "None"
     document.getElementById("Wendy's").style.display = "None"
-    document.getElementById("Burger King").style.display = "Block"
+    document.getElementById("BurgerKing").style.display = "Block"
   } else {
     document.write("Something went wrong. Please Refresh")
   }

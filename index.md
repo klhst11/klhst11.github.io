@@ -12,6 +12,14 @@ Hello, my name is Kaden Helsel, and welcome to my website! I am currently a Fres
 Looking to reach me?
 </h2>
 
-GitHub:https://github.com/klhst11
+<p>
+GitHub: https://github.com/klhst11
+</p>
+
+<p>
 Personal Email: kadenhelsel@gmail.com
+</p>
+
+<p>
 School Email: klhst11@student.mtaloy.edu
+</p>

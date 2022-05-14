@@ -3,7 +3,6 @@
             <li><a href="fastfoodrestuarants.html">Favorite Fast Food Restuarants</a></li>
             <li><a href="tempconverter.html">Temperature Converter</a></li>
             <li><a href="about.html">About Me</a></li>
-            <li><a href="contact.html">Contact Me</a></li>
         </ul>
 </nav>
 

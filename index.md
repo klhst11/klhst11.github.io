@@ -6,6 +6,27 @@
         </ul>
 </nav>
 
+<body>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="https://github.com/klhst11/klhst11.github.io">View On GitHub</a></li>
+            
+          </ul>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Kadens Porfolio Website</h1>
+          <p></p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/klhst11">klhst11</a></span>
+          <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+
 <style>
 
 .accordion {
@@ -44,7 +65,7 @@
 </style>
 
 
-<section id="work-experience">
+<section id="home">
 
 <div class="accordion">
     <div class="accordion-header">
@@ -91,6 +112,36 @@
 
 </section>
 
+<section id="jobs">
+
+<h2>Possible IT Jobs That I May Pursue</h2>
+
+<div class="accordion">
+    <div class="accordion-header">
+      <div class="accordion-title"><strong>Network & Computer Systems Administrator</strong></div>
+    </div>
+</div>
+
+<div class="accordion">
+    <div class="accordion-header">
+      <div class="accordion-title"><strong>Computer Systems Analyst</strong></div>
+    </div>
+</div>
+    
+<div class="accordion">
+    <div class="accordion-header">
+      <div class="accordion-title"><strong>Database Administrator</strong></div>
+    </div>
+</div>
+    
+<div class="accordion">
+    <div class="accordion-header">
+      <div class="accordion-title"><strong>Information Technology Architect</strong></div>
+    </div>
+</div>    
+ 
+</section>          
+          
 <script>
 
 const accordionHeaders = document.getElementsByClassName('accordion-header');
@@ -105,3 +156,9 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 }
 
 </script>
+
+</section>
+
+</div>
+  
+</body>

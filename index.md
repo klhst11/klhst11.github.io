@@ -7,26 +7,7 @@
 </nav>
 
 <body>
-      <div id="header">
-        <nav>
-          <ul>
-            <li class="fork"><a href="https://github.com/klhst11/klhst11.github.io">View On GitHub</a></li>
-            
-          </ul>
-        </nav>
-      </div><!-- end header -->
-
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>Kadens Porfolio Website</h1>
-          <p></p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/klhst11">klhst11</a></span>
-          <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-        </div>
-
+      
 <style>
 
 .accordion {

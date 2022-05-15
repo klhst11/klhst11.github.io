@@ -71,37 +71,49 @@ My Favortite Fast Food Restuarants:
 
 <script>
 
+// Shows the content based on what was selected in the menu  
 function fastFoodSelector(selectElem) {
+  //Gets the contents from what was selected in the menu
   var i = selectElem.selectedIndex;
   if (i < 0) {
     return;
   }
+  // Keeps name of selected option
   var optionValue = selectElem.options[i].value
 
+  // If chick-fil-a is selected, it will show all of the contents for that selection only.
   if (optionValue === "Chick-Fil-A") {
     document.body.style.backgroundColor = "#FF999E"
     document.getElementById("Chick-Fil-A").style.display = "Block"
     document.getElementById("TacoBell").style.display = "None"
     document.getElementById("Wendy's").style.display = "None"
     document.getElementById("BurgerKing").style.display = "None"
+    
+    // If taco bell is selected, it will show all of the contents for that selection only.
   } else if (optionValue === "TacoBell") {
     document.body.style.backgroundColor = "#4FC3F7"
     document.getElementById("Chick-Fil-A").style.display = "None"
     document.getElementById("TacoBell").style.display = "Block"
     document.getElementById("Wendy's").style.display = "None"
     document.getElementById("BurgerKing").style.display = "None"
+    
+    // If Wendy's is selected, it will show all of the contents for that selection only.
   } else if (optionValue === "Wendy's") {
     document.body.style.backgroundColor = "#971919"
     document.getElementById("Chick-Fil-A").style.display = "None"
     document.getElementById("TacoBell").style.display = "None"
     document.getElementById("Wendy's").style.display = "Block"
     document.getElementById("BurgerKing").style.display = "None"
+    
+    // If burger king is selected, it will show all of the contents for that selection only.
   } else if (optionValue === "BurgerKing") {
     document.body.style.backgroundColor = "#FFF59E"
     document.getElementById("Chick-Fil-A").style.display = "None"
     document.getElementById("TacoBell").style.display = "None"
     document.getElementById("Wendy's").style.display = "None"
     document.getElementById("BurgerKing").style.display = "Block"
+    
+    // If an error pretains from the sections, this messgae will pop up to the user.
   } else {
     document.write("Something went wrong. Please Refresh")
   }

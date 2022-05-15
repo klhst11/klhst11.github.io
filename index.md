@@ -50,11 +50,21 @@ Hello, my name is Kaden Helsel, and welcome to my website! I am currently a Fres
 
 <section id="contact-me">
 
-<h2>How To Contact Me</h2>
+<h2>How To Contact Me / View My GitHub Page</h2>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title"><strong>Email</strong></div>
+      <div class="accordion-title"><strong>GitHub</strong></div>
+      <span class="accordion-icon">+</span>
+    </div>
+    <div class="accordion-content">
+        https://github.com/klhst11
+    </div>
+</div>
+
+<div class="accordion">
+    <div class="accordion-header">
+      <div class="accordion-title"><strong>Personal Email</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
@@ -64,31 +74,11 @@ Hello, my name is Kaden Helsel, and welcome to my website! I am currently a Fres
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title"><strong>Phone Number</strong></div>
+      <div class="accordion-title"><strong>School Email</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        814-932-3909
-    </div>
-</div>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title"><strong>Instagram</strong></div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        kaden__helsel
-    </div>
-</div>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title"><strong>Facebook</strong></div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        Kaden Helsel
+        klhst11@student.mtaloy.edu
     </div>
 </div>
 

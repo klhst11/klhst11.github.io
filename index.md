@@ -86,10 +86,12 @@ Hello, my name is Kaden Helsel, and welcome to my website! I am currently a Fres
 
 <script>
 
+// Runs the loop
 const accordionHeaders = document.getElementsByClassName('accordion-header');
 const accordionContents = document.getElementsByClassName('accordion-content');
 const accordionIcons = document.getElementsByClassName('accordion-icon');
 
+// Allows the user to click on and either show or hide the accordions contents 
 for (let i = 0; i < accordionHeaders.length; i++) {
   accordionHeaders[i].addEventListener('click', () => {
     accordionContents[i].style.display = accordionContents[i].style.display == 'block' ? 'none' : 'block';
